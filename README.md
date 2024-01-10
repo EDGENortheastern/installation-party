@@ -110,3 +110,6 @@ Step 2. Click on Download
 
 ![anaconda download screen](anaconda_download.png)
 
+Step 2. Click on **"Launch Cloud Notebooks"**
+
+![Launch Notebooks Screen](anaconda_download.png)
