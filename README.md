@@ -131,5 +131,5 @@ Step 6. You can update Anaconda to the latest version, or you can choose to do i
 Step 7. Scroll down to the launch of Jupyter Notebook as shown below
 
 
-
+![Launch Local Notebooks Screen](launch-local-jupyter.png)
 
