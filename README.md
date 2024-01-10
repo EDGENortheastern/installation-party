@@ -52,3 +52,21 @@ Before you proceed, make sure to check the box at the bottom that says:
 
 !["Add python.exe to PATH" - box ticked](path_tick.png)
 
+#### Step 3. After checking the box, click on “Install Now”.
+
+#### Step 4. Verify the Installation
+
+Go to Windows search: type "cmd" to open a new command prompt or open a terminal on a Mac.
+Type in the command prompt:
+
+```bash
+python --version
+```
+
+or
+
+```bash
+python3 --version
+```
+
+![python --version](windows-version.png)
