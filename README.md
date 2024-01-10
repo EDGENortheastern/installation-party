@@ -102,3 +102,11 @@ Open VSCode from the desktop shortcut or the Windows search bar.
 
 Open Finder and go to the Applications folder.
 Double-click on Visual Studio Code to open it.
+
+## Installing Anaconda locally
+
+Step 1. Visit [Anacond's website](https://www.anaconda.com/download)
+Step 2. Click on Download
+
+![anaconda download screen](anaconda_download.png)
+
