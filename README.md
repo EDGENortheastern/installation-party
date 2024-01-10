@@ -12,7 +12,7 @@ Towards the end of Year 1, you will likely want to code locally on your machine.
 
 If you have permission issues but are considering a software engineering pathway, you may also want to install Node JS, which is not covered in this session as it will not be needed till later.
 
-## Installing [Python](https://www.python.org/downloads/)
+## Installing 🐍 [Python](https://www.python.org/downloads/) 🐍
 
 ### Check for an Existing Installation
 
@@ -50,5 +50,5 @@ Before you proceed, make sure to check the box at the bottom that says:
 
 ⚠️ **"Add python.exe to PATH". This step is crucial as it allows you to run Python from the Command Prompt, as shown in the figure below.**
 
-
+!["Add python.exe to PATH" - box ticked](path_tick.png)
 
