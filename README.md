@@ -6,13 +6,13 @@ To succeed in your first coding courses, installing any software locally is not 
 
 Towards the end of Year 1, you will likely want to code locally on your machine. We recommend the following installations:
 
-- Python
-- VSCode
-- Jupyter Notebook or Anaconda
+- [Python](https://www.python.org/downloads/)
+- [VSCode](https://code.visualstudio.com/)
+- [Jupyter Notebook](https://jupyter.org/) or [Anaconda]()
 
 If you have permission issues but are considering a software engineering pathway, you may also want to install Node JS, which is not covered in this session as it will not be needed till later.
 
-## Installing Python
+## Installing [Python](https://www.python.org/downloads/)
 
 ### Check for an Existing Installation
 
