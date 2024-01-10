@@ -1,6 +1,6 @@
 # Installation Instructions for the January 2024 Cohort
 
-To succeed in your first coding courses, installing any software locally is not a must. You can use cloud applications like [Replit](https://replit.com), [Google Colab](https://colab.research.google.com), or [Deepnote](https://deepnote.com). These platforms are free and allow you to download Python files to your local computer (and then submit).
+To succeed in your first coding courses, installing any software locally is not a must. You can use cloud applications like [Replit](https://replit.com), [Google Colab](https://colab.research.google.com), or [Deepnote](https://deepnote.com). These platforms are free and allow you to download Python files to your local computer (and then submit them on Canvas if you need to).
 
 [Google Colab](https://colab.research.google.com) is particularly effective at converting between `.ipynb` (Jupyter Notebook file format) and `.py`. Therefore, we recommend getting familiar with all three.
 
@@ -28,3 +28,6 @@ or
 python3 --version
 ```
 
+Here is what it looks like on a Mac with a custom terminal:
+
+![python3 --version on a Mac says Python 3.11.4](python_version_mac.png)
