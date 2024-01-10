@@ -70,3 +70,35 @@ python3 --version
 ```
 
 ![python --version](windows-version.png)
+
+## Installing VSCode
+
+### For Windows
+
+#### Step 1. Visit [Visual Studio Code's website](https://code.visualstudio.com/)
+
+#### Step 2. Click on the "Download for Windows" button to download the installer.
+
+#### Step 3. Run the downloaded installer.
+
+- Accept the license agreement and select your preferred settings.
+- Click 'Install' and then 'Finish' once the installation is complete.
+
+#### Step 4. Launch VSCode.
+Open VSCode from the desktop shortcut or the Windows search bar.
+
+### For Mac
+
+#### Step 1. Visit [Visual Studio Code's website](https://code.visualstudio.com/)
+
+#### Step 2. Click on the "Download for Mac" button to download the .zip file.
+
+#### Step 3. Install VSCode
+
+- Open the downloaded .zip file. This will extract the application.
+- Drag the Visual Studio Code app to the Applications folder.
+
+#### Step 4. Launch VSCode.
+
+Open Finder and go to the Applications folder.
+Double-click on Visual Studio Code to open it.
