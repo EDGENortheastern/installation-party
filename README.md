@@ -116,15 +116,20 @@ Step 2. Click on **"Launch Cloud Notebooks"**
 
 ![Launch Notebooks Screen](launch-notebooks.png)
 
-You need to sign in using your email address
+You need to sign in using your email address.
+
 Once signed in you can start writing Python commands in the cloud.
 
-
 Step 3. Once the installer is downloaded, go to your downloads folder and click on **“Anaconda3-2023.09-0-Windows-x86_64.exe”**
+
 Step 4. Follow the instructions to complete the installation process
+
 Step 5. Anaconda will start automatically, or you can start Anaconda from your Start Mmenu
+
 Step 6. You can update Anaconda to the latest version, or you can choose to do it later
+
 Step 7. Scroll down to the launch of Jupyter Notebook as shown below
+
 
 
 
