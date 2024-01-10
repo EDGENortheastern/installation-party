@@ -8,13 +8,15 @@ Towards the end of Year 1, you will likely want to code locally on your machine.
 
 - [Python](https://www.python.org/downloads/)
 - [VSCode](https://code.visualstudio.com/)
-- [Jupyter Notebook](https://jupyter.org/) or [Anaconda]()
+- [Jupyter Notebook](https://jupyter.org/) or [Anaconda](https://www.anaconda.com/download)
 
 If you have permission issues but are considering a software engineering pathway, you may also want to install Node JS, which is not covered in this session as it will not be needed till later.
 
 ## Installing [Python](https://www.python.org/downloads/)
 
 ### Check for an Existing Installation
+
+To find the command prompt (terminal), Windows users should type “cmd” in the search bar; ‘terminal” for Mac. Mac, Linux, and Windows users can check if there is already a version installed by running one of the following commands in the command prompt:
 
 ```bash
 python --version
