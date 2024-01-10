@@ -128,8 +128,12 @@ Step 5. Anaconda will start automatically, or you can start Anaconda from your S
 
 Step 6. You can update Anaconda to the latest version, or you can choose to do it later
 
-Step 7. Scroll down to the launch of Jupyter Notebook as shown below
-
+Step 7. Scroll down to the launch of Jupyter Notebooks as shown below
 
 ![Launch Local Notebooks Screen](launch-local-jupyter.png)
 
+Step 8. Click launch
+
+Step 9. Select an app to launch .html: Chrome
+
+Step 10. Click New Python 3 kernel as shown below
