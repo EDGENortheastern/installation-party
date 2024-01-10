@@ -137,3 +137,5 @@ Step 8. Click launch
 Step 9. Select an app to launch .html: Chrome
 
 Step 10. Click New Python 3 kernel as shown below
+
+![Launch Local Jupyter Notebook](local-jupyter.png)
