@@ -31,3 +31,24 @@ python3 --version
 Here is what it looks like on a Mac with a custom terminal:
 
 ![python3 --version on a Mac says Python 3.11.4](python_version_mac.png)
+
+For some people, only `python3 --version` will show the version, and for others, only `python --version`. Try both.
+
+You need Python 3, a version later than 3.6.
+
+### Downloading Python
+
+#### Step 1. Visit the official [Python website](https://www.python.org/downloads).
+
+The website should automatically suggest the best version for your Windows system. Click on the link to download the Python installer: Download Python 3.12.1 
+
+#### Step 2. Run the Installer.
+
+Go to your Downloads folder: click on the “python-3.12.1-amd64.exe”
+
+Before you proceed, make sure to check the box at the bottom that says:
+
+⚠️ **"Add python.exe to PATH". This step is crucial as it allows you to run Python from the Command Prompt, as shown in the figure below.**
+
+
+
