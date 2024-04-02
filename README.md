@@ -1,4 +1,4 @@
-# Installation Instructions for the January 2024 Cohort
+# Python Installation Instructions
 
 To succeed in your first coding courses, installing any software locally is not a must. You can use cloud applications like [Replit](https://replit.com), [Google Colab](https://colab.research.google.com), or [Deepnote](https://deepnote.com). These platforms are free and allow you to download Python files to your local computer (and then submit them on Canvas if you need to).
 
